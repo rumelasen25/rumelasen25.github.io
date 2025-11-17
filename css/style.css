@@ -545,27 +545,6 @@
 
 	/* HOME */
 
-	.hero {
-		height: 100vh;
-		text-align: center;
-		background-image: url('../images/action.jpg');
-		background-size: cover;
-		background-repeat: no-repeat;
-		color: white;
-		border-radius: 1em;
-		padding: 1em 1em 3em;
-	}
-
-	.hero h1 {
-		margin-top: 2.5em;
-		font-size: 3.4em;
-		line-height: 1.2em;
-		color: whitesmoke;
-	}
-
-	.hero h3 {
-		font-size: 1.6em;
-	}
 
 	.bio {
 		overflow: auto;
@@ -672,7 +651,7 @@
 
     .text-box {
       margin: .3em 1em 0em 0em;
-      width: 400px;
+      width: 200px;
       overflow: auto;
     }
 
